@@ -1,3 +1,4 @@
+Beyond the fact that this is a world changing invention, bridging together other crypto currencies, there should be a short link for help/support below the bridge so users that are having a slow pace navigating the bridge can receive directions and get a better experience, and also, time rate for the bridging could be more swift 
 # ₿eyond Feedback 💡
 
 Welcome to the feedback repo for [₿eyond](https://beyond.tech)! Our team has established this space as a platform for users to submit bug reports, feature requests, and any other feedback you might have.
